@@ -1,5 +1,5 @@
 [olist]
-[*][u]BORN ONE QUIET MORNING[/u]
+[*][h3]BORN ONE QUIET MORNING[/h3]
 [screenshot=510101698;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178564610/264D728769E0D2A271487175B1F2E99677CC2934/][/screenshot]
 [screenshot=510101873;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178566533/AA59536647FAEAD28669DD4E5AB21FB9204EDF50/][/screenshot]
 Just jump upwards, you will eventually find it.
@@ -8,7 +8,7 @@ Just jump upwards, you will eventually find it.
 [*]Mission type: Any
 [/list]
 
-[*][u]AMIDST THE GREAT WAR[/u]
+[*][h3]AMIDST THE GREAT WAR[/h3]
 [previewimg=15674480;sizeFull,floatLeft;20190526135756_1.jpg][/previewimg]
 [previewimg=15674481;sizeFull,floatLeft;20190526135812_1.jpg][/previewimg]
 This room has a giant, arcing generator thingy in it.
@@ -20,7 +20,7 @@ The Kuria is on top. Careful, the electricity can hurt you.
 [*]Recommendation: Mobile Defense
 [/list]
 
-[*][u]ALL ELDERS WERE GATHERED[/u]
+[*][h3]ALL ELDERS WERE GATHERED[/h3]
 [screenshot=510100298;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178553403/5B38814F926DE5D934614F134E696155D8B7EA09/][/screenshot]
 [screenshot=510100128;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178552338/5E4328C6F48270450DA6A47DFA427A0784F2E9EB/][/screenshot]
 When spawning on top of the tower, break the air-vent to jump down below and you're almost there.
@@ -29,12 +29,12 @@ When spawning on top of the tower, break the air-vent to jump down below and you
 [*]Mission type: Any
 [/list]
 
-[*][u]FOR THIS LIFE'S NEW DAWN[/u]
+[*][h3]FOR THIS LIFE'S NEW DAWN[/h3]
 [previewimg=15676919;sizeFull,floatLeft;20190526173001_1.jpg][/previewimg]
 [previewimg=15676920;sizeFull,floatLeft;20190526173011_1.jpg][/previewimg]
 This Kuria can be found on one of Earth's extraction tiles.
 [previewimg=15676921;sizeFull,floatLeft;20190526173050_1.jpg][/previewimg]
-The Kuria down below to the left of the extraction platform [i](don't get too close)[/i].
+The Kuria down below to the left of the extraction platform [i](don't get too close or you might end the mission on accident)[/i].
 [previewimg=15676922;sizeFull,floatLeft;20190526173104_1.jpg][/previewimg]
 It can be safely scanned from the ledge above, but you can manage to land down there with a jump.
 [list]

@@ -1,5 +1,5 @@
 [olist]
-[*][u]A STORY ONCE LOST[/u]
+[*][h3]A STORY ONCE LOST[/h3]
 [previewimg=15673185;sizeFull,floatLeft;20190525230507_1.jpg][/previewimg]
 [previewimg=15673186;sizeFull,floatLeft;20190525230520_1.jpg][/previewimg]
 This room is easy to identify by the pipes above.
@@ -12,7 +12,7 @@ Said room features the Kuria on top of a barrel.
 [*]Mission type: Any
 [/list]
 
-[*][u]RECOVERED BY FATE[/u]
+[*][h3]RECOVERED BY FATE[/h3]
 [previewimg=15673227;sizeFull,floatLeft;20190525230237_1.jpg][/previewimg]
 This room used to be fairly big, but is now medium-sized. There is a big abyss to the left.
 [previewimg=15673229;sizeFull,floatLeft;20190525230323_1.jpg][/previewimg]
@@ -24,7 +24,7 @@ The Kuria is on top of said pillar.
 [*]Mission type: Any
 [/list]
 
-[*][u]THE TALE OF TWO SISTERS[/u]
+[*][h3]THE TALE OF TWO SISTERS[/h3]
 [previewimg=15674988;sizeFull,floatLeft;20190526144652_1.jpg][/previewimg]
 [previewimg=15674989;sizeFull,floatLeft;20190526144703_1.jpg][/previewimg]
 This room is what I call the "jungle" cave. It barely has any exposure to the sky and there's lots of growth inside the area.
@@ -38,7 +38,7 @@ You might have to step aside as it can be covered easily by those branches.
 [*]Recommendation: Excavation, Mobile Defense
 [/list]
 
-[*][u]WHO BORE THE SAME FACE[/u]
+[*][h3]WHO BORE THE SAME FACE[/h3]
 [previewimg=15676730;sizeFull,floatLeft;20190526172602_1.jpg][/previewimg]
 This Kuria can only be found inside one of the spy vaults on Earth.
 [previewimg=15676732;sizeFull,floatLeft;20190526172611_1.jpg][/previewimg]

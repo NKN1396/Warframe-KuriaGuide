@@ -1,5 +1,5 @@
 [olist]
-[*]THE COPIES COULD SEE IT
+[*][h3]THE COPIES COULD SEE IT[/h3]
 [screenshot=509407142;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174119585/70CC6C212617808D6FA41AA0EACD1D46A209AD9D/][/screenshot]
 [screenshot=509406841;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174118562/3A7769BBF2B213DBA603465EB53168DF1D6285C8/][/screenshot]
 [screenshot=509406605;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174117696/36C5CC82F4E64B79C2C1281BD67FC729F8A46583/][/screenshot]
@@ -8,7 +8,8 @@ Follow the corridor to your right when you come in. This dead-end [strike]is[/st
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]THEY YEARNED FOR IT TOO
+
+[*][h3]THEY YEARNED FOR IT TOO[/h3]
 [screenshot=512729053;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681438004/41FEA098FB0113B99B7011CF00B9D87761EB20E4/][/screenshot]
 [screenshot=512728868;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681437133/637D47B62ECAA9D8E020D7B023CB70037971749D/][/screenshot]
 [screenshot=514427718;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996690836512/8A05F3A31E71B4855AD8DDE7DA8F2565FD0E932D/][/screenshot]
@@ -18,14 +19,16 @@ I think this room might only show up as a branch to a certain extraction room.
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]IF THE TWINS COULD DO IT
+
+[*][h3]IF THE TWINS COULD DO IT[/h3]
 [screenshot=512728549;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681435369/0DEA59A060EDB064F0C1E3FAC0A8B58319E9C261/][/screenshot]
 Still in the same room as the previous Kuria. The second I looked up, I knew there would be a Kuria appearing on my scanner. I was absolutely right. Also, you can climb really high into this room. The Kuria is somewhere in the middle.
 [list]
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]PERHAPS THEY COULD TOO
+
+[*][h3]PERHAPS THEY COULD TOO[/h3]
 [screenshot=512730380;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681444766/B59C655B8FBE4563933656FAC04A60D58B535974/][/screenshot]
 [screenshot=509405335;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174112514/E835A7033A3A8E1033EAAC40CE31E50ED6F9A553/][/screenshot]
 I ran past the Kuria inside this room a couple of times before I almost accidently noticed it on my scanner. This one was a real surprise.

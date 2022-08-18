@@ -1,5 +1,5 @@
 [olist]
-[*]THEY HAD A DEEP STRENGTH
+[*][h3]THEY HAD A DEEP STRENGTH[/h3]
 [screenshot=509405847;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174114793/CDF37FAC1CD61A39CD05FE626978E580941982A4/][/screenshot]
 [screenshot=509405690;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174113953/5BCE6482A6A796D91662BF48E31DE96DEB1F2753/][/screenshot]
 This room is quite rare. The Kuria is hidden in the ground, you can easily scan it.
@@ -7,7 +7,8 @@ This room is quite rare. The Kuria is hidden in the ground, you can easily scan 
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]THAT CAME FROM EACH OTHER
+
+[*][h3]THAT CAME FROM EACH OTHER[/h3]
 [screenshot=509389339;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174044195/B7C046B52FF3FF04A4E7D054BDE262D4487A3CA4/][/screenshot]
 [screenshot=500609599;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/1462895077777732506/07E32A51DE28A59C7AA585B1528A09BBDDC0A1A5/][/screenshot]
 This room is surprisingly common and the Kuria is on the pipes to the right of the lava. It will be one of the first you will encounter on Ceres.
@@ -15,7 +16,8 @@ This room is surprisingly common and the Kuria is on the pipes to the right of t
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]UNLIKE ALL THESE COPIES
+
+[*][h3]UNLIKE ALL THESE COPIES[/h3]
 [screenshot=512731020;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681448047/A79A6B079DA9F008E6A237E22BE8E640075AD738/][/screenshot]
 [screenshot=509405035;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174111373/859A92C3735B4F3103D3F9BF123F6E6AD81F4B19/]Text[/screenshot]
 [screenshot=509404762;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174110171/0807E79CF49EE42B28CF938B57A8682DB810D948/][/screenshot]
@@ -24,7 +26,8 @@ This is self-explanatory. Thanks to Terror for finding this one. The only reason
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]IDENTICAL, BUT NOT BROTHERS
+
+[*][h3]IDENTICAL, BUT NOT BROTHERS[/h3]
 [screenshot=514426594;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996690831011/88B1125ED89E1AF7C92B6B83AED26D925B3F8910/][/screenshot]
 [screenshot=514426824;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996690832265/C2C1FB1B4638053CB5E99DDE62EA0CA419754149/][/screenshot]
 On top of the right fan over the door.

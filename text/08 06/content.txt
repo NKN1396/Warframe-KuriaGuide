@@ -1,5 +1,5 @@
 [olist]
-[*]AS BOTH GIRLS MATURED
+[*][h3]AS BOTH GIRLS MATURED[/h3]
 [screenshot=520056302;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600776893/C4FB3C08518D526875ED8529AACD5F9CAA5346F3/][/screenshot]
 [screenshot=520056221;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600776160/7C29391129691113129E240FED5379662EFF01E6/][/screenshot]
 [screenshot=520056107;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600775314/F89C463283AB04A9DA6BAC5F390E51B2E1F6828F/][/screenshot]
@@ -8,7 +8,8 @@ This is the Grineer sealab rescue room (thank you to Archangel Arbie2 for pointi
 [*]Tileset: Grineer Sealab
 [*]Mission type: Rescue
 [/list]
-[*]THEIR BOND GREW IN DEPTH
+
+[*][h3]THEIR BOND GREW IN DEPTH[/h3]
 [screenshot=533834012;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671591513304/F4A7413D6C52A7B686309234075C64E9D847853B/][/screenshot]
 [screenshot=533834094;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671591514121/AFAB92F45DC8C6E390E2C97C7C4BCE4D05355625/][/screenshot]
 [screenshot=533834205;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671591514739/E2B9982BB674D19847D0CF725EAE9A89A5EECA24/][/screenshot]
@@ -17,7 +18,8 @@ One of the two sabotage rooms (the other one contains the Manic Bombard).
 [*]Tileset: Grineer Sealab
 [*]Mission type: Sabotage
 [/list]
-[*]THEY HAD THE SAME POISE
+
+[*][h3]THEY HAD THE SAME POISE[/h3]
 [screenshot=534781933;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599244780/A5648FE4CABD201715F1708B6DD8F489154A72E6/][/screenshot]
 [screenshot=534781719;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599243324/0AFDB24C3A0306D17D9F9C4084544E2BF9FF6715/][/screenshot]
 The room has a large shipwreck in the middle and poisonous mushrooms (pulsing gas clouds) that can easily kill you, so stay away from them. It's hard to describe where the Kuria is in that room but luckily there aren't many pillars to search for. This one was pretty mean, as I've been scanning the entire room on multiple occasions and never found it. Kebabthief then found it in a couple minutes.
@@ -25,7 +27,8 @@ The room has a large shipwreck in the middle and poisonous mushrooms (pulsing ga
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
 [/list]
-[*]SAME SENSES, SAME STRENGTH
+
+[*][h3]SAME SENSES, SAME STRENGTH[/h3]
 [screenshot=563479991;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996659227/014BC75A1DFAB4A24EA9309E617B3C60563715F0/][/screenshot]
 [screenshot=563479691;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996657506/E74A38735B3977A898A9ABEAEA30B7E1B9357874/][/screenshot]
 [screenshot=563479547;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996656378/683357BBEEEA96DCEB66BA0EB1181BB36CD0134D/][/screenshot]

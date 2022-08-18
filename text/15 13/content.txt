@@ -1,5 +1,5 @@
 [olist]
-[*]THE COPIES BECAME BELIEVERS
+[*][h3]THE COPIES BECAME BELIEVERS[/h3]
 [screenshot=512729491;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681440289/3CA5C5512A284E0597084124E3AACC0685036EB3/][/screenshot]
 [screenshot=512729311;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681439469/6A71262901F8C801751E4AF83CA559B40333E910/][/screenshot]
 This Kuria was a big surprise to me, as I almost missed it. Scanned the entire room finding nothing and then suddenly hear it as I'm bullet-jumping out of the room. It can be found in the same room as the previous Kuria.
@@ -8,7 +8,8 @@ This Kuria was a big surprise to me, as I almost missed it. Scanned the entire r
 [*]Mission type: Any
 [*]Recommendation: Capture
 [/list]
-[*]ONE BY ONE BOWED TO THE TWINS
+
+[*][h3]ONE BY ONE BOWED TO THE TWINS[/h3]
 [screenshot=564300231;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001223442/C8FDA4DA5B2C7A6F467FEF7EE7E0A717DB599590/][/screenshot]
 So after taking a lot of runs through Ceres in order to find new Kurias, Kebabthief told me he found a new one and tried to describe it. That was Kuria 12-2 but it made me remember this particular room with the three cranes which I only ever saw once. So after finishing a lot of missions on Ceres and almost giving up, thinking I did something wrong I FINALLY FOUND IT. This has to be (in my opinion) the rarest room I have encountered so far.
 [screenshot=564299831;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001221674/2DD276B23B0284015E2CB616DB7A64681BDB1ABF/][/screenshot]
@@ -18,7 +19,8 @@ I immediately got a feeling the Kuria would be ontop of the cranes and there it 
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]AND LED FORTH BY THEIR NEW MASTERS
+
+[*][h3]AND LED FORTH BY THEIR NEW MASTERS[/h3]
 [screenshot=564300707;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001225806/90BEA2B052A22EFBB2829633894978C81121183F/][/screenshot]
 This Kuria can be found in the exact same room as the Kuria above. Let me go ahead and tell you that I had to watch a video guide in order to find this one for the following reasons:
 [list]
@@ -44,7 +46,8 @@ I can't explain how to get up there, took me 5 minutes. Just try your best. Good
 [*]Tileset: Grineer Shipyard
 [*]Mission type: Any
 [/list]
-[*]THEY RAVAGED THE COLONIES
+
+[*][h3]THEY RAVAGED THE COLONIES[/h3]
 [screenshot=534784154;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599263826/3A7D707EDB1B6CD590B1DBB460663399EE334B51/][/screenshot]
 [screenshot=534784098;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599263235/71D6479B302C2105C20548C0461DAE366D22BDCC/][/screenshot]
 [screenshot=534784022;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599262216/3AC5135D8FEE6754FBECF4B905AF2D20E576F720/][/screenshot]

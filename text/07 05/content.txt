@@ -1,5 +1,5 @@
 [olist]
-[*]THE SAMENESS WAS SHUNNED
+[*][h3]THE SAMENESS WAS SHUNNED[/h3]
 [screenshot=520052416;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600741001/E597B3D2B67F9758350B03078115991177A83D54/][/screenshot]
 Rather complex Kuria here, when coming into this room, walk up the stairs until you see a yellow console.
 [screenshot=520052656;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600743465/5A5DB440A183F92480DA68C3CA8AC1F66168BE4A/][/screenshot]
@@ -12,7 +12,8 @@ The door is now open revealing the Kuria. Thanks to Kebabthief for working that 
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
 [/list]
-[*]AS SLAVE-LIKE AND SOILED
+
+[*][h3]AS SLAVE-LIKE AND SOILED[/h3]
 [screenshot=534780502;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599233402/1E76C22390403B521394E725FA36810D3C53528C/][/screenshot]
 [screenshot=534780644;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599234590/E4BF956ECAA5DA9E4B5816D106140161BA0B9F45/][/screenshot]
 [screenshot=534780766;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599235415/0612B06A149316C9CE1EBECA9CEE6F71CBD79EA0/][/screenshot]
@@ -21,7 +22,8 @@ You can recognize this room by the fountain in the middle. Kuria is pretty easy 
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
 [/list]
-[*]THEY TENDED THEIR STRAYS
+
+[*][h3]THEY TENDED THEIR STRAYS[/h3]
 [screenshot=520058372;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600794168/2D232699279CEF8800EFA67D6C125F0D8DE7E495/][/screenshot]
 [screenshot=520058248;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600793199/A190B5E1C28A7D24978AF20DA029EFBB0504B4C5/][/screenshot]
 [screenshot=520058100;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600791720/1694A0FAEC4E81FD8335301C75FA5C434E3441CC/][/screenshot]
@@ -30,7 +32,8 @@ Thank you once again to Terror for finding that Kuria. This room is easy to iden
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
 [/list]
-[*]REJECTED BY ALL
+
+[*][h3]REJECTED BY ALL[/h3]
 [screenshot=520054523;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600762029/5A658A2157DDECDCD3197115D1A1D93AD9B88DAC/][/screenshot]
 [screenshot=520054443;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600761264/0B880D70EDD15A5BF15D37CEDDF6ABDA872B3517/][/screenshot]
 [screenshot=520054247;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600758974/83BCC32C14EA9ABA9C069BC578E0B3FE2EC1147E/][/screenshot]

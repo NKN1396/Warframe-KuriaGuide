@@ -1,5 +1,5 @@
 [olist]
-[*]LIKE CHISEL TO STONE
+[*][h3]LIKE CHISEL TO STONE[/h3]
 [screenshot=511677228;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674556143/F1B49A30E6CDE33541FDADFE1C280D9CFF7F0F34/][/screenshot]
 [screenshot=511677061;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674555085/DBF8FD213C1CEFBEEB8BE4C696885CE2B32C97EA/][/screenshot]
 [screenshot=509392167;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174057302/29AA0BF5B4730726204902D2204DA0CA214AE057/][/screenshot]
@@ -8,7 +8,8 @@ On top of one of the pillars in the 'desert' tile.
 [*]Tileset: Grineer Settlement
 [*]Mission type: Any
 [/list]
-[*]WAR MOLDED THE TWINS
+
+[*][h3]WAR MOLDED THE TWINS[/h3]
 [screenshot=563554676;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483997019041/2AA54D0B937D54353ED738247BCB82D02909A23F/][/screenshot]
 [screenshot=563554831;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483997020154/D722320729325BE432F93FEBE84A1A8139194D14/][/screenshot]
 This room is a generic end-tile and can be found anywhere under water (credits to Claviculuswuluwus for the research).
@@ -16,7 +17,8 @@ This room is a generic end-tile and can be found anywhere under water (credits t
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
 [/list]
-[*]WHO RAVAGED THE HORDES
+
+[*][h3]WHO RAVAGED THE HORDES[/h3]
 [screenshot=510075265;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178389160/8BCF4745FD0C11FEDAEBBFEEA8F8A02C0601F4A3/][/screenshot]
 [screenshot=510075056;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178387712/FB6E47E4262C022E9FDA2308D7F95043FD50C806/][/screenshot]
 One of the spawn rooms for the Grineer settlement tileset. This room is guaranteed to appear if you select a defense mission. Just climb on top of the crane.
@@ -24,7 +26,8 @@ One of the spawn rooms for the Grineer settlement tileset. This room is guarante
 [*]Tileset: Grineer Settlement
 [*]Mission type: Any
 [/list]
-[*]BECAME LEGEND TO THEM
+
+[*][h3]BECAME LEGEND TO THEM[/h3]
 [screenshot=514427349;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996690834971/2BDD77C369689B6768927A9F78891EC8A3E8336A/][/screenshot]
 [screenshot=514495437;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996691176588/13C02CCC570839CD46CC537CFF68296781F3FB4E/][/screenshot]
 I don't know what to write here. Eat a snickers.
