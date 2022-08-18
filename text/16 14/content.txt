@@ -1,0 +1,39 @@
+[olist]
+[*]NOW A POWER TO FOLLOW
+[screenshot=735355666;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267221016525829494/F28CF9279934792A0D0AB2236113D8C609F46F0D/][/screenshot]
+[screenshot=735355868;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267221016525830739/46895DDBAC89147C7DF788D1FB1EFFF1C532ABF0/][/screenshot]
+[screenshot=735355772;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267221016525830116/959D58AD8A0D339FE60BBDEA2ED2BF8522E30497/][/screenshot]
+I suspected a Kuria to be in this room (especially down there) but couldn't find one after searching for 10 minutes and gave up, thinking there would be none in there. Guess I was wrong because this room does indeed have a Kuria, I was just to clumsy to find it in the first go. (Thank you to egk2 for pointing that out in the comments)
+[list]
+[*]Tileset: Corpus Outpost
+[*]Mission type: Any
+[*]Recommendation: Excavation
+[/list]
+[*]NOT A FORCE TO BE FOUGHT
+[screenshot=512333899;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996678842977/D23720DEF2DC2CFE094BDD8CAF705CBCCAF98AD5/][/screenshot]
+[screenshot=512333453;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996678841014/040C1E77A9A75CF052F87B998CE1EFD6BDA59F85/][/screenshot]
+[screenshot=512333089;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996678838921/BFA1E81D24C37D26680EFDE808D9DEFB52004103/][/screenshot]
+When going towards extraction, walk down the small hill and go to the left, where you will be able to find a cave (it can be hard to find depending on where you are standing). Go in there until you see a pile of scrap. The Kuria is behind the container and could be a bit tricky to scan.
+[list]
+[*]Tileset: Corpus Outpost
+[*]Mission type: Any
+[/list]
+[*]FROM THE ASHES OF WAR
+[screenshot=510077127;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178401287/D837D990AAB5D5CFABAA2147F5656437AB142E3E/][/screenshot]
+[screenshot=509389519;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174045278/5FECACF44EA456BCC9067576FDEDD5A2C6963B9B/][/screenshot]
+[screenshot=500609262;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/1462895077777730162/A07EDF573F1CAB5727AFB1DBDC70791264FC0DCE/][/screenshot]
+In the corpus room with the see-through elevator. If you're walking towards the elevator, look to your right before entering it. Up on the ledge you will be able to find the Kuria.
+[list]
+[*]Tileset: Corpus Outpost
+[*]Mission type: Any
+[/list]
+[*]THE TWIN QUEENS WERE WROUGHT
+[screenshot=513255276;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996683886366/714950105740B1B50B69DF6A1E2A9C7ECB595563/][/screenshot]
+[screenshot=509407973;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174123090/F2E398E1082BF56C1E96C6F66453DD5959686307/][/screenshot]
+[screenshot=509399126;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174086974/DC0045EE70FBD24D7A1F7ACE76B81C975F4E00CD/][/screenshot]
+You sometimes spawn inside this room, it has a platform with one door above and one door below it. The Kuria can be found ontop of the door to your right when you're walking downstairs from the platform.
+[list]
+[*]Tileset: Corpus Outpost
+[*]Mission type: Any
+[/list]
+[/olist]

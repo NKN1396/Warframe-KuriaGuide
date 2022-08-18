@@ -1,0 +1,39 @@
+[olist]
+[*]THE TWINS HAD ATTAINED
+[screenshot=518156282;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692186791902679/7B0D1C3C946BE750020540D5D4E06849EB4E5C31/][/screenshot]
+[screenshot=518156174;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692186791901795/DB1338BD7C8078EBF924BED5B7D94BE265301C33/][/screenshot]
+[screenshot=518156068;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692186791900459/B42BFD32CEAE54E31F17AFA5137F9C27E426EB21/][/screenshot]
+Props to Terror for finding that one. Simply stand below the platform and bullet-jump straight up. It's a bit tricky to get to, because not even a few feet above is an invisible ceiling and you don't have a lot of options to wall-jump up there.
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[/list]
+[*]SOMETHING MORE THAN A WHOLE
+[screenshot=563623169;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483997334672/3AE908BD46A6E7570608F4CFC38E7D14A5A56049/][/screenshot]
+[screenshot=563622996;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483997333715/FB599EC9434582CD2D3CA84ED6EC8EC42818A2CE/][/screenshot]
+[screenshot=563622843;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483997332848/3AA588281922609DC9978E06101C00941C19AC93/][/screenshot]
+This is a pretty rare end-room but it's usually connected to another room over rails, so watch out for those. Go up towards the console and halfway there you will see a stairway that leads beneath. The Kuria is under the last flight of stairs. As lyravega pointed out, this room requires a room with rails in order to spawn, one of which is more common to spawn in Mobile Defense. Big thanks to him!
+[List]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[*]Recommendation: Mobile Defense
+[/list]
+[*]A TRUE UNDERSTANDING
+[screenshot=533833277;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671591507159/A940C8159BDFBD25874FAD9894EA0F58D41FAC97/][/screenshot]
+[screenshot=533833074;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671591505810/B5F18E55A3F4723AE533F1FBC07E725EB4E09AAC/][/screenshot]
+This is [strike]an uncommon[/strike] apparently a super-rare extraction-room. Be careful when playing on solo because you might accidently end the mission before you get to scan the Kuria. There is a ledge on the left cliff that you can stand on. Move along until you can get a glimpse of the Kuria (credits go to sp!r!tst0ne and Total Takeover for figuring this out). Caution: don't get struck by a lightning!
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[/list]
+[*]OF EACH OTHER SOUL
+[screenshot=512729621;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681441010/2ACF23E9275BFEA9ED32AF0A0C2C8147BB11F075/][/screenshot]
+[screenshot=631942023;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/313368966849057960/EECA68280FC2C91192AEEA8AE2627F65863D312C/][/screenshot]
+[screenshot=631941881;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/313368966849056412/0C81CEFA180C1A192A6D873E88F75F0B409D613D/][/screenshot]
+The last one! I knew there'd be two Kurias in this room and I finally found it in a mission where I had enough time to search for it. This one took me pretty long, because I never got this room when I was playing on Ceres every week or so. I knew I had to search this room again and the stars finally aligned!
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[*]Recommendation: Capture
+[/list]
+[/olist]

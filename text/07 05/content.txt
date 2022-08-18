@@ -1,0 +1,42 @@
+[olist]
+[*]THE SAMENESS WAS SHUNNED
+[screenshot=520052416;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600741001/E597B3D2B67F9758350B03078115991177A83D54/][/screenshot]
+Rather complex Kuria here, when coming into this room, walk up the stairs until you see a yellow console.
+[screenshot=520052656;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600743465/5A5DB440A183F92480DA68C3CA8AC1F66168BE4A/][/screenshot]
+Hack the console before jumping down into the water.
+[screenshot=520051844;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600735452/A4D095EC20DC012541FE23F0058E8255AF2ECAEC/][/screenshot]
+[screenshot=520052522;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600741946/E094AD5A636D8EA7AE9416D6BD246CB56E17365D/][/screenshot]
+[screenshot=520051772;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600734503/F4A7D565AF172845A77098E22DBC5D52146E9B00/][/screenshot]
+The door is now open revealing the Kuria. Thanks to Kebabthief for working that out, I didn't realize the console was part of it and thought it was just a similar room.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+[*]AS SLAVE-LIKE AND SOILED
+[screenshot=534780502;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599233402/1E76C22390403B521394E725FA36810D3C53528C/][/screenshot]
+[screenshot=534780644;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599234590/E4BF956ECAA5DA9E4B5816D106140161BA0B9F45/][/screenshot]
+[screenshot=534780766;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599235415/0612B06A149316C9CE1EBECA9CEE6F71CBD79EA0/][/screenshot]
+You can recognize this room by the fountain in the middle. Kuria is pretty easy to find.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+[*]THEY TENDED THEIR STRAYS
+[screenshot=520058372;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600794168/2D232699279CEF8800EFA67D6C125F0D8DE7E495/][/screenshot]
+[screenshot=520058248;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600793199/A190B5E1C28A7D24978AF20DA029EFBB0504B4C5/][/screenshot]
+[screenshot=520058100;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600791720/1694A0FAEC4E81FD8335301C75FA5C434E3441CC/][/screenshot]
+Thank you once again to Terror for finding that Kuria. This room is easy to identify by the 4 small, yellow Grineer holograms. The Kuria is hidden inside one of the broken pipes. 
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+[*]REJECTED BY ALL
+[screenshot=520054523;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600762029/5A658A2157DDECDCD3197115D1A1D93AD9B88DAC/][/screenshot]
+[screenshot=520054443;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600761264/0B880D70EDD15A5BF15D37CEDDF6ABDA872B3517/][/screenshot]
+[screenshot=520054247;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600758974/83BCC32C14EA9ABA9C069BC578E0B3FE2EC1147E/][/screenshot]
+Can be a bit tricky to get to. Jump on the platform first and then simply walk up the corals.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+[/olist]

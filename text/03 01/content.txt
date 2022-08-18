@@ -1,0 +1,53 @@
+[olist]
+[*][u]A STORY ONCE LOST[/u]
+[previewimg=15673185;sizeFull,floatLeft;20190525230507_1.jpg][/previewimg]
+[previewimg=15673186;sizeFull,floatLeft;20190525230520_1.jpg][/previewimg]
+This room is easy to identify by the pipes above.
+[previewimg=15673187;sizeFull,floatLeft;20190525230542_1.jpg][/previewimg]
+A bit higher up you'll be able to find a bridge leading to a room.
+[previewimg=15673188;sizeFull,floatLeft;20190525230554_1.jpg][/previewimg]
+Said room features the Kuria on top of a barrel.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[/list]
+
+[*][u]RECOVERED BY FATE[/u]
+[previewimg=15673227;sizeFull,floatLeft;20190525230237_1.jpg][/previewimg]
+This room used to be fairly big, but is now medium-sized. There is a big abyss to the left.
+[previewimg=15673229;sizeFull,floatLeft;20190525230323_1.jpg][/previewimg]
+This screenshot was taken from the abyss. Note that there's a higher platform to walk on attached to the "pillar" in the middle. 
+[previewimg=15673230;sizeFull,floatLeft;20190525230331_1.jpg][/previewimg]
+The Kuria is on top of said pillar.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[/list]
+
+[*][u]THE TALE OF TWO SISTERS[/u]
+[previewimg=15674988;sizeFull,floatLeft;20190526144652_1.jpg][/previewimg]
+[previewimg=15674989;sizeFull,floatLeft;20190526144703_1.jpg][/previewimg]
+This room is what I call the "jungle" cave. It barely has any exposure to the sky and there's lots of growth inside the area.
+[previewimg=15674990;sizeFull,floatLeft;20190526144719_1.jpg][/previewimg]
+The best way to find this Kuria is to search for the waterfall and align yourself so the river is to your right like in this image. Note the grineer panels in the top left corner. This is where the Kuria hides.
+[previewimg=15674991;sizeFull,floatLeft;20190526144728_1.jpg][/previewimg]
+You might have to step aside as it can be covered easily by those branches.
+[list]
+[*]Tileset: Grineer Forest
+[*]Mission type: Any
+[*]Recommendation: Excavation, Mobile Defense
+[/list]
+
+[*][u]WHO BORE THE SAME FACE[/u]
+[previewimg=15676730;sizeFull,floatLeft;20190526172602_1.jpg][/previewimg]
+This Kuria can only be found inside one of the spy vaults on Earth.
+[previewimg=15676732;sizeFull,floatLeft;20190526172611_1.jpg][/previewimg]
+Hop on the zipline and walk through the waterfall in the middle.
+[previewimg=15676733;sizeFull,floatLeft;20190526172629_1.jpg][/previewimg]
+[previewimg=15676734;sizeFull,floatLeft;20190526172647_1.jpg][/previewimg]
+After walking though the waterfall just go into the back room behind the corridor. The Kuria is hidden by a lot of stuff.
+[list]
+[*]Tileset: Grineer Forest
+[*]Mission type: Spy
+[/list]
+[/olist]
