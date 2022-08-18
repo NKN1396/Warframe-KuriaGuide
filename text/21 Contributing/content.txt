@@ -1,0 +1,6 @@
+I'd love to maintain this guide, but things aren't as easy for me as they used to be. I'll spare you the read and get straight to business:
+
+[u][h3]Yes, I need your help.[/h3][/u]
+Please consider contributing to this guide by submitting issues or creating pull requests on the [url=https://github.com/NKN1396/warframe-kurias]GitHub repository[/url].
+
+I rarely check the comment section below this guide, as I've had it glitch out multiple times in the past and it's quite hard for me to get a read on some people.
