@@ -41,12 +41,12 @@ You might have to sidestep a bit, as the branches might be covering it up.
 
 [*][h3]WHO BORE THE SAME FACE[/h3]
 [previewimg=15676730;sizeFull,floatLeft;20190526172602_1.jpg][/previewimg]
-This Kuria can only be found inside one of the spy vaults on Earth.
+This Kuria can only be found inside one of the Spy vaults on Earth.
 [previewimg=15676732;sizeFull,floatLeft;20190526172611_1.jpg][/previewimg]
 Hop on the zipline and walk through the waterfall in the middle.
 [previewimg=15676733;sizeFull,floatLeft;20190526172629_1.jpg][/previewimg]
 [previewimg=15676734;sizeFull,floatLeft;20190526172647_1.jpg][/previewimg]
-After walking though the waterfall just go into the back room behind the corridor. The Kuria is hidden by a lot of stuff.
+After walking though the waterfall just go into the back room behind the corridor. The Kuria is hidden behind a bunch of barrels.
 [list]
 [*]Tileset: Grineer Forest
 [*]Mission type: Spy
