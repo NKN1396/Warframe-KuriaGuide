@@ -1,8 +1,9 @@
 [olist]
 [*][h3]CONFUSED AND BEWILDERED[/h3]
 [screenshot=511675904;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674548577/A698F99A290F22A8D081450B5A8085CC2FEEEE94/][/screenshot]
+This room has a generator emitting a green glow on its bottom level. There are a many pillars of varying sizes surrounding it, which you can use to get to the upper level.
 [screenshot=509403447;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174104185/8DC7D3902530158E1C383E4A232B57173AFA4264/][/screenshot]
-In the 'pillar'-room up really high.
+There's a contraption floating directly above the generator. The Kuria is on top of this contraption.
 [list]
 [*]Tileset: Grineer Galleon
 [*]Mission type: Any
