@@ -33,9 +33,7 @@ There's an apparatus with the Kuria resting on top. Sometimes, a Mobile Defense 
 
 [*][h3]KEPT SAFE FROM THE KNIFE[/h3]
 [screenshot=520060413;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600811034/9113A814DB46F4CA578BDF65328B277FD4C20BEA/][/screenshot]
-[screenshot=520060353;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600810449/0E6E7E210977ADABCBA370B885F3E230AB82FE62/][/screenshot]
-[screenshot=520060236;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600809592/4FDEE2E6D329641FE41A7BDF1BD1A85DCB3C568A/][/screenshot]
-Nothing much to say on this one. The room itself has a kind of unique mechanic. When you are standing in the middle and looking on the close walls, you may notice two 'levers'. Shoot both of these and you can get access to a somewhat secret room.
+The Kuria is pretty close to the ledge and can be scanned from below.
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
