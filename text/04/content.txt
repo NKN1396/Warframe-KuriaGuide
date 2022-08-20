@@ -13,8 +13,7 @@ Jump into the water and swim between the column and wall. The Kuria is inside a 
 
 [*][h3]HAD COME INTO LIFE[/h3]
 [screenshot=528924250;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640512719/4DCE7E90EF6D1EA863B4563AAEC69CFD20F996C3/][/screenshot]
-[screenshot=528924103;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640511953/B67908E54C2A8EB57172746C86F2A5E41532FAC9/][/screenshot]
-As soon as Kebabthief told me he found one in this room, I knew where to look. Pretty easy one here.
+This room has a straight walkway in the middle and four tubes coming in from the sides. The Kuria can be scanned by standing on the walkway and looking inside the first tube on the left.
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
