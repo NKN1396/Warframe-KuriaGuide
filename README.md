@@ -6,6 +6,21 @@ Repository for the [Warframe Kuria Steam guide](https://steamcommunity.com/share
 
 Help is greatly appreciated. If you have any improvements to share, consider opening an issue or submitting a pull request.
 
+### Guidelines
+
+#### Copyrighted and trademark material
+
+In order to keep this guide free and accessible, I will only accept material under the following conditions:
+1. There must be no visible clan emblems / sigils.
+2. There must be no visible player names.
+
+#### Image quality standards
+
+1. Resolution should be at least 1920 x 1080 at 100% scale.
+1. As little images as possible. If the Kuria is reasonably easy to find and access, there is no need to show the exact position (e.g. a close-up).
+2. Provide enough material to identify the room. Recognizing if you're in the correct room is the hard part.
+3. Kurias should be marked (g) in every image.
+
 ## Status tracker
 
 This table tracks the current status of all Kurias and when they've last been updated in the guide.
@@ -31,6 +46,7 @@ Legend:
 * 📝 = Licensing issues (intellectual property rights)
 * 📷 = Image deficiency (too few images, add more)
 * ❌ = Outdated (Kuria changed)
+* 👎 = Low quality (needs update)
 
 ## Licensing
 
