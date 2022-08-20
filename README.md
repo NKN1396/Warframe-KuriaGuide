@@ -7,6 +7,7 @@ Repository for the [Warframe Kuria Steam guide](https://steamcommunity.com/share
 Help is greatly appreciated. If you have any improvements to share, consider opening an issue or submitting a pull request.
 
 ## Status tracker
+
 This table tracks the current status of all Kurias and when they've last been updated in the guide.
 
 | Stanza | Kuria 1 | Kuria 2 | Kuria 3 | Kuria 4 |
@@ -27,11 +28,12 @@ This table tracks the current status of all Kurias and when they've last been up
 | 14 | ????-??-?? | ????-??-?? 📝 | ????-??-?? 📝 | ????-??-?? 📝 |
 
 Legend:
-* 📝 = Licensing issues
+* 📝 = Licensing issues (intellectual property rights)
 * 📷 = Image deficiency (too few images, add more)
 * ❌ = Outdated (Kuria changed)
 
 ## Licensing
+
 For the time being, I do not provide a license for any part of this guide.
 In other words: all rights reserved.
 
