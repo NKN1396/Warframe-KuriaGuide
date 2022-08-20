@@ -26,7 +26,9 @@ The Kuria is on top. Careful, the electricity can hurt you.
 [*][h3]ALL ELDERS WERE GATHERED[/h3]
 [screenshot=510100298;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178553403/5B38814F926DE5D934614F134E696155D8B7EA09/][/screenshot]
 [screenshot=510100128;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178552338/5E4328C6F48270450DA6A47DFA427A0784F2E9EB/][/screenshot]
-When spawning on top of the tower, break the air-vent to jump down below and you're almost there.
+This is a spawning tileset featuring a giant Corpus logo in a large hall.
+[screenshot=510100128;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178552338/5E4328C6F48270450DA6A47DFA427A0784F2E9EB/][/screenshot]
+The Kuria is hidden high inside the symbol itself. Accessing it can be a bit tricky, since there's no good spot to stand on with a direct line of sight.
 [list]
 [*]Tileset: Corpus Gas City
 [*]Mission type: Any
