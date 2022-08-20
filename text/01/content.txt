@@ -35,11 +35,13 @@ Sadly this Kuria is not as awesome as it's predecessor. The old one was my favor
 
 [*][h3]WHO BORE THE SAME FACE[/h3]
 [previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+This Kuria was previously found in a Deception mission and has been moved to a new location. It is now found inside of one of the spy vaults on Earth.
 [previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+Simply go up to the waterfall at the back of the room (easiest way to get there is by using the zipline).
 [previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
-I couldn't believe this one, because it was the first time I ever encountered two Kurias in the same room, which basically means I had to check every room again from that point on. This is also a more tricky one to get to. Start out on top of the building complex (the one hanging above the lava and where you have to insert the datamass) and start climbing the wall.
+The Kuria is in the room behind the corridor. Make sure not to get caught or hack the vault first. Thanks to Captain♥♥♥♥♥♥for pointing this one out (his name will probably get censored :P).
 [list]
-[*]Tileset: Corpus Gas City
-[*]Mission type: Deception
+[*]Tileset: Grineer Forest
+[*]Mission type: Spy
 [/list]
 [/olist]
