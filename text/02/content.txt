@@ -1,0 +1,41 @@
+[olist]
+[*][h3]BORN ONE QUIET MORNING[/h3]
+[screenshot=510101698;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178564610/264D728769E0D2A271487175B1F2E99677CC2934/][/screenshot]
+[screenshot=510101873;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178566533/AA59536647FAEAD28669DD4E5AB21FB9204EDF50/][/screenshot]
+Just jump upwards, you will eventually find it.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[*]Recommendation: Sabotage
+[/list]
+
+[*][h3]AMIDST THE GREAT WAR[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+This one was tricky as I expected the Kuria to be way higher up top. Apparently windows are an option, too.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[*]Recommendation: Mobile Defense
+[/list]
+
+[*][h3]ALL ELDERS WERE GATHERED[/h3]
+[screenshot=510100298;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178553403/5B38814F926DE5D934614F134E696155D8B7EA09/][/screenshot]
+[screenshot=510100128;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178552338/5E4328C6F48270450DA6A47DFA427A0784F2E9EB/][/screenshot]
+When spawning on top of the tower, break the air-vent to jump down below and you're almost there.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[/list]
+
+[*][h3]FOR THIS LIFE'S NEW DAWN[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+One of two Kurias I didn't find myself. I accidently spoilered myself with a video on this one. This is one of the most audacious and ridiculous Kurias I've encountered so far. It can be found at extraction. With enough boredom or skill you can manage to land down there by the way.
+[list]
+[*]Tileset: Grineer Forest
+[*]Mission type: Any
+[/list]
+[/olist]

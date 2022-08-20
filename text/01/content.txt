@@ -1,0 +1,41 @@
+[olist]
+[*][h3]A STORY ONCE LOST[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+I've never seen this room before (but that could just be due to me mostly playing void missions) so I suspected it might hide a Kuria up pretty high. I was right.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[/list]
+
+[*][h3]RECOVERED BY FATE[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+Screenshot is finally here! Simply climb up the pipes and you will find the Kuria on top.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Any
+[/list]
+
+[*][h3]THE TALE OF TWO SISTERS[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+I really like this Kuria. I like to imagine how the Kuria fell in there from a high space and made the grinder stop because it's indestructable, it tells some kind of story. By the way, those grinders can crush a Tenno, just try it out by jumping into the working one right next to it ;)
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Deception
+[/list]
+
+[*][h3]WHO BORE THE SAME FACE[/h3]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+[previewimg=TODO;sizeFull,floatLeft;TODO][/previewimg]
+I couldn't believe this one, because it was the first time I ever encountered two Kurias in the same room, which basically means I had to check every room again from that point on. This is also a more tricky one to get to. Start out on top of the building complex (the one hanging above the lava and where you have to insert the datamass) and start climbing the wall.
+[list]
+[*]Tileset: Corpus Gas City
+[*]Mission type: Deception
+[/list]
+[/olist]

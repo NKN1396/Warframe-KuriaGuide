@@ -1,0 +1,41 @@
+[olist]
+[*][h3]THE UPRISING CAME[/h3]
+[screenshot=513943381;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687510518/57D218F144AE6E88B148586AD58F2B92EE58196C/][/screenshot]
+[screenshot=513943529;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687512013/B0AE1F9063147716CA67D880AA6F94A4B744183A/][/screenshot]
+[screenshot=509391591;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174055082/FBA44763C563F1536C898B0AB1B1AA0E5DD6333F/][/screenshot]
+This is a pretty common passage. When facing the generator, step in front of the control console and look to the left.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+
+[*][h3]AND SPREAD LIKE A WEED[/h3]
+[screenshot=510075955;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178393867/847CD0B72182267BD467205A4D0DAAC6509D132A/][/screenshot]
+[screenshot=510075843;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361178392919/D7B9E14D4C0390A49DD8E569A262B54EDD9F07D3/][/screenshot]
+This one can only be found in the defense-room. It is to the left of the pipes.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Defense
+[/list]
+
+[*][h3]AN ARMY OF COPY-MEN[/h3]
+[screenshot=511685181;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674595184/C404177CCE362B4C5266F7E7A38A2C3893507ECB/][/screenshot]
+[screenshot=511685048;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674594538/BAC9751FA48557201CABAC89BDEEC0BF03BD4803/][/screenshot]
+[screenshot=511684924;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674593623/72F7411ADF32FE5D6B2F56B1B0B84388AF8EF80D/][/screenshot]
+This one is a really mean Kuria as it is close to the extraction and the second (technically the first as it is higher up in the list) Kuria in a rather small room. Be careful if you're playing alone or all the other people are already at extraction, because stepping a bit too far to the side will immediately end the mission in case the objective has already been completed.
+This is the second out of two Kurias (the first being Kuria 2-4) I got spoilered. I don't think I would ever have found that one myself.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+
+[*][h3]FEROCIOUS AND FREE[/h3]
+[screenshot=511678217;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674561764/D1353DCD033064196F063D475F6D895E69C69A9C/][/screenshot]
+[screenshot=511678083;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674560847/E669BED09FAEB7431B42FD77BD4B1E1FE5D76C4C/][/screenshot]
+[screenshot=508835701;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361170650428/3739ADC51B2B46D2415A5407BD1AA25811100C84/][/screenshot]
+Near the extraction.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+[/olist]

@@ -1,0 +1,45 @@
+[olist]
+[*][h3]A MIRRORED REFLECTION[/h3]
+[screenshot=528935620;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640576285/C1BCAA7889BE7C03B817CEE71152CC95DC724755/][/screenshot]
+[screenshot=528935169;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640574034/BA5FAEE643FB6F4DD26D24C2A411096DC6EF74C8/][/screenshot]
+[screenshot=528934706;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640571453/40A449B9FAF851671B200F6FF2C946B72F9798DA/][/screenshot]
+Simply walk to the end of the room and jump into the water. This Kuria is hard to miss. Also take note of the awesome screenshot I was able to take thanks to Warframe bugging out (hence me standing midair with my Arch-gun out). Luckily Kebabthief could finish the mission for me.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Capture
+[/list]
+
+[*][h3]HAD COME INTO LIFE[/h3]
+[screenshot=528924250;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640512719/4DCE7E90EF6D1EA863B4563AAEC69CFD20F996C3/][/screenshot]
+[screenshot=528924103;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640511953/B67908E54C2A8EB57172746C86F2A5E41532FAC9/][/screenshot]
+As soon as Kebabthief told me he found one in this room, I knew where to look. Pretty easy one here.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+
+[*][h3]BY WILL OF THEIR FATHER[/h3]
+[screenshot=528924595;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640514619/64DC6E4BB312682A4E885841D8BEDDC57714461B/][/screenshot]
+This is a common room and can be found within any mission.
+[screenshot=528923952;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640511045/45049C1094E0826C5C8CCF99CFFC69E819557AE8/][/screenshot]
+This one appeared inside a Mobile Defense mission. I guess it's a quite common in Mobile Defense missions, so you might be better off finding that Kuria there.
+[screenshot=528923783;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640509940/626067F12FD2E1FCAABED7F55D4B6242D5668DE4/][/screenshot]
+Both rooms contain this weird apparatus with the Kuria ontop of it.
+[screenshot=528923643;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640509129/CCC92CECDFE627CDB3C648E5932A236C6EDEE890/][/screenshot]
+This is the first time I've encountered the same Kuria in 2 different rooms. Grineer Sealab seems to be a weird place with a lot of strange room/object/mission-relations (hard to put that into words). To give you an example: There seem to be alternatives of certain rooms with broken pipes etc... I still need to figure this out.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[*]Recommendation: Mobile Defense
+[/list]
+
+[*][h3]KEPT SAFE FROM THE KNIFE[/h3]
+[screenshot=520060413;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600811034/9113A814DB46F4CA578BDF65328B277FD4C20BEA/][/screenshot]
+[screenshot=520060353;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600810449/0E6E7E210977ADABCBA370B885F3E230AB82FE62/][/screenshot]
+[screenshot=520060236;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600809592/4FDEE2E6D329641FE41A7BDF1BD1A85DCB3C568A/][/screenshot]
+Nothing much to say on this one. The room itself has a kind of unique mechanic. When you are standing in the middle and looking on the close walls, you may notice two 'levers'. Shoot both of these and you can get access to a somewhat secret room.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[/list]
+[/olist]

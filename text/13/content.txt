@@ -1,0 +1,61 @@
+[olist]
+[*][h3]THE COPIES BECAME BELIEVERS[/h3]
+[screenshot=512729491;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681440289/3CA5C5512A284E0597084124E3AACC0685036EB3/][/screenshot]
+[screenshot=512729311;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996681439469/6A71262901F8C801751E4AF83CA559B40333E910/][/screenshot]
+This Kuria was a big surprise to me, as I almost missed it. Scanned the entire room finding nothing and then suddenly hear it as I'm bullet-jumping out of the room. It can be found in the same room as the previous Kuria.
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[*]Recommendation: Capture
+[/list]
+
+[*][h3]ONE BY ONE BOWED TO THE TWINS[/h3]
+[screenshot=564300231;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001223442/C8FDA4DA5B2C7A6F467FEF7EE7E0A717DB599590/][/screenshot]
+So after taking a lot of runs through Ceres in order to find new Kurias, Kebabthief told me he found a new one and tried to describe it. That was Kuria 12-2 but it made me remember this particular room with the three cranes which I only ever saw once. So after finishing a lot of missions on Ceres and almost giving up, thinking I did something wrong I FINALLY FOUND IT. This has to be (in my opinion) the rarest room I have encountered so far.
+[screenshot=564299831;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001221674/2DD276B23B0284015E2CB616DB7A64681BDB1ABF/][/screenshot]
+[screenshot=564299608;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001220352/61FA0F0B133A231E7F23863D2600707EEFF3454B/][/screenshot]
+I immediately got a feeling the Kuria would be ontop of the cranes and there it was, smiling at me. It's pretty easy to get up there but from my memory of that room I was already so sure I'd find it up there, it felt like fulfilling a prophecy.
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[/list]
+
+[*][h3]AND LED FORTH BY THEIR NEW MASTERS[/h3]
+[screenshot=564300707;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001225806/90BEA2B052A22EFBB2829633894978C81121183F/][/screenshot]
+This Kuria can be found in the exact same room as the Kuria above. Let me go ahead and tell you that I had to watch a video guide in order to find this one for the following reasons:
+[list]
+[*]This room is so rare, I saw it as my only chance to ever encounter it
+[*]It's pretty big and I got a feeling there'd be two Kurias in this room
+[*]Two consecutive Kurias still missing at that point reinforced my idea
+[*]I was getting tired after searching for 10 minutes (enemies got annoying)
+[/list]
+I started watching the video and realized I was right: There absolutely is a Kuria in this room! I stopped the video before I knew where exactly to look (I just needed that motivation-boost) and searched it by myself...
+for 30 minutes...
+I did not find it.
+[screenshot=564300486;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551484001224843/038E3F19D2947956A511B46CD4BDB76F8D2936C0/][/screenshot]
+Being disappointed in myself, I started up the video again but this time watched it in full length.
+Out of all the Kurias I collected so far, all seemed fair in some way. Some were easy, others were hard, but I always felt like I achieved something. Every time my friends found a Kuria faster than me or got one that I missed it gave me motivation to try better next time.
+BUT THIS KURIA...
+It's more than 50 meters away from the next platform so it doesn't show up on the scanner.
+It's up so high, the engine just fails the lighting and your character model turns black.
+It's so far away from the enemies, they just stop moving at all.
+It's just...
+wrong.
+I can't explain how to get up there, took me 5 minutes. Just try your best. Good luck.
+[list]
+[*]Tileset: Grineer Shipyard
+[*]Mission type: Any
+[/list]
+
+[*][h3]THEY RAVAGED THE COLONIES[/h3]
+[screenshot=534784154;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599263826/3A7D707EDB1B6CD590B1DBB460663399EE334B51/][/screenshot]
+[screenshot=534784098;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599263235/71D6479B302C2105C20548C0461DAE366D22BDCC/][/screenshot]
+[screenshot=534784022;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599262216/3AC5135D8FEE6754FBECF4B905AF2D20E576F720/][/screenshot]
+One of the most recognizable rooms in Grineer Sealab-tileset. The Kuria is hidden pretty well and was a pain to search for. It's found high up on the pipes before walking up the slope. There's also a small hole in the wall near it.
+This particular one is really confusing, I didn't expect it to be found in the Sealab-tileset, but on either Corpus Outpost or Grineer Settlement. It really throws me off, because it completely destroys the pattern I started to recognize... maybe it's just an exception.
+[list]
+[*]Tileset: Grineer Sealab
+[*]Mission type: Any
+[*]Recommendation: Survival
+[/list]
+[/olist]

@@ -1,0 +1,38 @@
+[olist]
+[*][h3]CONFUSED AND BEWILDERED[/h3]
+[screenshot=511675904;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674548577/A698F99A290F22A8D081450B5A8085CC2FEEEE94/][/screenshot]
+[screenshot=509403447;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174104185/8DC7D3902530158E1C383E4A232B57173AFA4264/][/screenshot]
+In the 'pillar'-room up really high.
+[list]
+[*]Tileset: Grineer Galleon
+[*]Mission type: Any
+[/list]
+
+[*][h3]THEY JUDGED THEM AMISS[/h3]
+[screenshot=511676492;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674552323/26E7886EE34DD05BDDF1454AA8A993181C7F0151/][/screenshot]
+[screenshot=511676336;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674551406/49EA081C2B5EFDAE79D05FEB57F78B5C24241157/][/screenshot]
+In the generator-room with the pillar in the middle look up to the lockers. You will be able to find a Kuria in one of the small bays.
+[list]
+[*]Tileset: Grineer Galleon
+[*]Mission type: Any
+[/list]
+
+[*][h3]FOR THEY NEVER WITNESSED[/h3]
+[screenshot=518156845;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692186791908960/8842318B045F95646B52736D176F0516CF700597/][/screenshot]
+[screenshot=509400327;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174091118/3B6A2FC2A2752DC847165832955645E3044C2ADC/][/screenshot]
+When walking inside this room, walk downwards and get into the first door to your left. On your left side should be two crates stacked ontop of each other. Climb them and find your Kuria. If you have to walk upwards when entering the room, go into the last door on your right.
+[list]
+[*]Tileset: Grineer Galleon
+[*]Mission type: Any
+[/list]
+
+[*][h3]TWO SELF-SAME AS THESE[/h3]
+[screenshot=747819955;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218113544/3075A4E47D5ABFD0357D532AC0E3D23DFEF6E2DF/][/screenshot]
+[screenshot=747819866;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218112978/EB51662D0FD0063DA81627F83508F5C60910FD21/][/screenshot]
+[screenshot=747819763;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218112304/6C5DF0CAABB8CA190EEC966BD083001004F2C4B0/][/screenshot]
+This Kuria was really hard to find and I only found it because I suspected it might be in the room and I got confirmation from a friend that this is indeed the case. It can only be found inside the room where you insert the datamass during a deception. You have to crouch in order to scan the Kuria.
+[list]
+[*]Tileset: Grineer Galleon
+[*]Mission type: Deception
+[/list]
+[/olist]

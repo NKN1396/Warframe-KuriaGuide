@@ -1,0 +1,40 @@
+[olist]
+[*][h3]AND MUCH LIKE THE SEA[/h3]
+[screenshot=563522607;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996868270/855B93436DEA0BBC9FFA49EF27DFA78BD87AC4A5/][/screenshot]
+[screenshot=563522439;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996867450/A55B412613DB4077EF6482F505CA8DDFE6C0F3BE/][/screenshot]
+[screenshot=563522297;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/395551483996866588/BEB29593271073AECFA6E4C8A7041F5753C2CF6F/][/screenshot]
+This one is a bit tricky to find. If you're looking down from the higher-located generator to the lower one, you can find the Kuria on a ledge to the right side of the narrow passage.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+
+[*][h3]THEY CAME JUST LIKE WAVES[/h3]
+[screenshot=513941476;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687498480/D6B218271FE315F857FFF8E94CBFB91990A846D1/][/screenshot]
+[screenshot=513941370;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687497458/6F1F2D2E6AC6A24CC0A0CC53067BE8FEBEB0322D/][/screenshot]
+[screenshot=513941120;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687495917/285B61C6A6FBE25D580160732D59BF2275318832/][/screenshot]
+Searched in this room like a maniac during a nightmare mission but couldn't find a thing after 10 minutes. Terror found that Kuria in less than 20 seconds. The entrance is really hard to see when you're not up close.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+
+[*][h3]FOR YEARS THEY FOUGHT ON[/h3]
+[screenshot=513942136;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687502427/5D915C86628F1803FDDBF9A380BC10D356AC597B/][/screenshot]
+[screenshot=513941968;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687501501/57C4C647566A699949E8CDA074DD2A2D59084E18/][/screenshot]
+[screenshot=513941759;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687500017/432A76D686F6F13FE37CF68EE7FFE8893FD700B0/][/screenshot]
+The second Kuria in the same room (with the energy generator thingy in the middle). Ironically, I found this one.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+
+[*][h3]FOR YEARS WE REMAINED[/h3]
+[screenshot=513942659;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687505458/8927CDC25CE0F901CBD4D912C0EA600AA69AC747/][/screenshot]
+[screenshot=513942465;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996687504266/209F96B01DEB087F1FFA7AB45F350DCE317F14A7/][/screenshot]
+I ran past this one far too often. Bullet-jump on the second (higher) rock pillar.
+[list]
+[*]Tileset: Grineer Settlement
+[*]Mission type: Any
+[/list]
+[/olist]

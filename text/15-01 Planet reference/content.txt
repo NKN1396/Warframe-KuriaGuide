@@ -1,0 +1,43 @@
+This is a quick reference to save you from navigating to the Wiki due to the security risks it imposes on your system (outdated Steam browser and malicious Wikia ads). You should [b]NOT[/b] open the Wiki in your Steam browser.
+[list]
+[*]Corpus Gas City:
+[list]
+[*]Jupiter
+[/list]
+[*]Grineer Forest:
+[list]
+[*]Earth
+[/list]
+[*]Grineer Galleon:
+[list]
+[*]Mercury (partially)
+[*]Saturn (partially)
+[*]Sedna (partially)
+[*]Earth, Mars, Ceres and Uranus (very few)
+[/list]
+[*]Grineer Sealab:
+[list]
+[*]Uranus
+[*]Earth (Mariana only) - no Archwing tiles
+[/list]
+[*]Grineer Settlement
+[list]
+[*]Mars
+[/list]
+[*]Grineer Shipyard
+[list]
+[*]Ceres
+[*]Sedna (few)
+[/list]
+[*]Corpus Outpost
+[list]
+[*]Venus
+[*]Pluto
+[*]Neptune (few)
+[/list]
+[/list]
+
+[strike]I'm taking a guess here, because I begin to see a pattern: The Kurias seem to be listed by planets they can be found at (e.g. all Kurias found in Corpus Gas City are consecutive), meaning that any gap between two Kurias on the same tileset must be on said tileset.
+To give an example: When Kuria 1-1 and 1-3 are on Corpus Gas City, Kuria 1-2 must be aswell. Just a guess, but I'm pretty sure it's working like that.[/strike]
+
+My idea was mostly correct with a few exceptions. Took a pretty good guess here.
