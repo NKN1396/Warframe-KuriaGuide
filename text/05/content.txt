@@ -11,6 +11,7 @@ The door is now open revealing the Kuria. Thanks to Kebabthief for working that 
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
+[*]Recommendation: Mobile Defense
 [/list]
 
 [*][h3]AS SLAVE-LIKE AND SOILED[/h3]
