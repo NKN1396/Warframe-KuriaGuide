@@ -32,11 +32,13 @@ Inside the room there are two crates stacked ontop of each other in one of the c
 
 [*][h3]TWO SELF-SAME AS THESE[/h3]
 [screenshot=747819955;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218113544/3075A4E47D5ABFD0357D532AC0E3D23DFEF6E2DF/][/screenshot]
-This Kuria was previously found in a Deception mission and has been moved to a new location. The room has some stairs leading up.
+[screenshot=747819955;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218113544/3075A4E47D5ABFD0357D532AC0E3D23DFEF6E2DF/][/screenshot]
+This is an end tile that features a big tree surrounded by some metal scrap. There are stairs leading up to a platform.
 [screenshot=747819866;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218112978/EB51662D0FD0063DA81627F83508F5C60910FD21/][/screenshot]
-Simply go up the stairs and you can see a platform from there.
+[screenshot=747819866;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218112978/EB51662D0FD0063DA81627F83508F5C60910FD21/][/screenshot]
+Go up the stairs and jump on the big rock to the right. You can see a platform from there.
 [screenshot=747819763;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/267223080218112304/6C5DF0CAABB8CA190EEC966BD083001004F2C4B0/][/screenshot]
-I wonder what happened to the Grineer holding that Kuria. Anyway, thank you to Claviculus for giving me a good description.
+[i]Fun fact: the Grineer previously held that Kuria in their left hand.[/i]
 [list]
 [*]Tileset: Grineer Forest
 [*]Mission type: Any
