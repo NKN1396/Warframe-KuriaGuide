@@ -22,6 +22,11 @@ In order to keep this guide free and accessible, I will only accept material und
 3. As little images as possible. If the Kuria is reasonably easy to find and access, there is no need to show the exact position (e.g. a close-up). Contrary, if a Kuria requires tricky maneuvering, every step should have its own image.
 4. Kurias should be marked (g) in every image.
 
+#### Text quality standards
+
+1. Avoid opinios (e.g. "this room is easy to identify") and stick to a more objective approach.
+2. Trivia and fillers are okay, as long as they're tagged in italics (`[i]``[/i]`).
+
 ## Status tracker
 
 This table tracks the current status of all Kurias and when they've last been updated in the guide.
