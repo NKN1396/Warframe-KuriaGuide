@@ -12,7 +12,7 @@ There's a contraption floating directly above the generator. The Kuria is on top
 [*][h3]THEY JUDGED THEM AMISS[/h3]
 [screenshot=511676492;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674552323/26E7886EE34DD05BDDF1454AA8A993181C7F0151/][/screenshot]
 [screenshot=511676336;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068996674551406/49EA081C2B5EFDAE79D05FEB57F78B5C24241157/][/screenshot]
-This room features a round pillar surrounded by an abyss. The Kuria is hidden besides a locker on one of the higher-up bays.
+This room features a round pillar surrounded by an abyss. The Kuria is hidden besides a locker on one of the higher-up bays (marked with waypoint 2).
 [list]
 [*]Tileset: Grineer Galleon
 [*]Mission type: Any
