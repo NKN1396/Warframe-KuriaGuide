@@ -37,11 +37,11 @@ The Kuria is hidden high inside the symbol itself. Accessing it can be a bit tri
 [*][h3]FOR THIS LIFE'S NEW DAWN[/h3]
 [previewimg=15676919;sizeFull,floatLeft;20190526173001_1.jpg][/previewimg]
 [previewimg=15676920;sizeFull,floatLeft;20190526173011_1.jpg][/previewimg]
-This Kuria can be found on one of Earth's extraction tiles.
+This Kuria can be found on one of Earths extraction tiles.
 [previewimg=15676921;sizeFull,floatLeft;20190526173050_1.jpg][/previewimg]
-The Kuria down below to the left of the extraction platform [i](don't get too close or you might end the mission on accident)[/i].
+The Kuria down below to the left of the extraction platform. Don't get too close or you might end the mission on accident.
 [previewimg=15676922;sizeFull,floatLeft;20190526173104_1.jpg][/previewimg]
-It can be safely scanned from the ledge above, but you can manage to land down there with a jump.
+It can be safely scanned from the ledge above, but you can also manage to land down there with a precise jump.
 [list]
 [*]Tileset: Grineer Forest
 [*]Mission type: Any
