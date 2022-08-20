@@ -20,8 +20,11 @@ This room features a round pillar surrounded by an abyss. The Kuria is hidden be
 
 [*][h3]FOR THEY NEVER WITNESSED[/h3]
 [screenshot=518156845;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692186791908960/8842318B045F95646B52736D176F0516CF700597/][/screenshot]
+This room can be identified by the slope on both of its exits. If you're coming from below, the room with the Kuria can be accessed through the first door on right.
 [screenshot=509400327;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174091118/3B6A2FC2A2752DC847165832955645E3044C2ADC/][/screenshot]
-When walking inside this room, walk downwards and get into the first door to your left. On your left side should be two crates stacked ontop of each other. Climb them and find your Kuria. If you have to walk upwards when entering the room, go into the last door on your right.
+If you're coming from above, walk down the ramp and take the first door to the left. As you can see here, this room also features two horizontal pillars.
+[screenshot=509400327;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/427068361174091118/3B6A2FC2A2752DC847165832955645E3044C2ADC/][/screenshot]
+Inside the room there are two crates stacked ontop of each other in one of the corners. The Kuria rests on top.
 [list]
 [*]Tileset: Grineer Galleon
 [*]Mission type: Any
