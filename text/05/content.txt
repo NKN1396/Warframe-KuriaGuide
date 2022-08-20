@@ -41,5 +41,6 @@ Can be a bit tricky to get to. Jump on the platform first and then simply walk u
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
+[*]Recommendation: Mobile Defense
 [/list]
 [/olist]
