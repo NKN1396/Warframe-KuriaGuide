@@ -6,6 +6,7 @@ Just jump upwards, you will eventually find it.
 [list]
 [*]Tileset: Corpus Gas City
 [*]Mission type: Any
+[*]Recommendation: Sabotage
 [/list]
 
 [*][h3]AMIDST THE GREAT WAR[/h3]
