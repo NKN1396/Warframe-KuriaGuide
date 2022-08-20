@@ -14,9 +14,10 @@ Said room features the Kuria on top of a barrel.
 
 [*][h3]RECOVERED BY FATE[/h3]
 [previewimg=15673227;sizeFull,floatLeft;20190525230237_1.jpg][/previewimg]
-This room used to be fairly big, but is now medium-sized. There is a big abyss to the left.
+This room features a big open area with an abyss on its side (left in this screenshot).
+[i]It used to be fairly big, but has been shrunk down to medium size with the Gas Planet rework.[/i]
 [previewimg=15673229;sizeFull,floatLeft;20190525230323_1.jpg][/previewimg]
-This screenshot was taken from the abyss. Note that there's a higher platform to walk on attached to the "pillar" in the middle. 
+This screenshot was taken from above the abyss. Note that there's a higher platform to walk on attached to the "pillar" in the middle. 
 [previewimg=15673230;sizeFull,floatLeft;20190525230331_1.jpg][/previewimg]
 The Kuria is on top of said pillar.
 [list]
