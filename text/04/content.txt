@@ -1,9 +1,11 @@
 [olist]
 [*][h3]A MIRRORED REFLECTION[/h3]
 [screenshot=528935620;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640576285/C1BCAA7889BE7C03B817CEE71152CC95DC724755/][/screenshot]
+The room has two glass spheres and one metal sphere with glass columns ontop. The columns are surrounded by a walkway. Additionally, there's a giant basin filled with water below. This is the room that capture targets run towards.
 [screenshot=528935169;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640574034/BA5FAEE643FB6F4DD26D24C2A411096DC6EF74C8/][/screenshot]
+The Kuria is below the metal inside the water.
 [screenshot=528934706;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640571453/40A449B9FAF851671B200F6FF2C946B72F9798DA/][/screenshot]
-Simply walk to the end of the room and jump into the water. This Kuria is hard to miss. Also take note of the awesome screenshot I was able to take thanks to Warframe bugging out (hence me standing midair with my Arch-gun out). Luckily Kebabthief could finish the mission for me.
+Jump into the water and swim between the column and wall. The Kuria is inside a metal frame almost at the bottom.
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Capture
