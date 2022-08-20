@@ -38,3 +38,4 @@ For the time being, I do not provide a license for any part of this guide.
 In other words: all rights reserved.
 
 There is some legal stuff I need to figure out before I can change that.
+I do plan to release parts under different licenses.
