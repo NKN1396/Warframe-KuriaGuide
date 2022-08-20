@@ -41,5 +41,6 @@ Nothing much to say on this one. The room itself has a kind of unique mechanic. 
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
+[*]Recommendation: Mobile Defense
 [/list]
 [/olist]
