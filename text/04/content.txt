@@ -21,13 +21,10 @@ This room has a straight walkway in the middle and four tubes coming in from the
 
 [*][h3]BY WILL OF THEIR FATHER[/h3]
 [screenshot=528924595;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640514619/64DC6E4BB312682A4E885841D8BEDDC57714461B/][/screenshot]
-This is a common room and can be found within any mission.
+There's a glass sphere filled with a yellow liquid and blue sea life in the middle of the room.
+[comment;An alternative verion of this room with a broken pipe also exists. <- CHECK THIS][/comment]
 [screenshot=528923952;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640511045/45049C1094E0826C5C8CCF99CFFC69E819557AE8/][/screenshot]
-This one appeared inside a Mobile Defense mission. I guess it's a quite common in Mobile Defense missions, so you might be better off finding that Kuria there.
-[screenshot=528923783;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640509940/626067F12FD2E1FCAABED7F55D4B6242D5668DE4/][/screenshot]
-Both rooms contain this weird apparatus with the Kuria ontop of it.
-[screenshot=528923643;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/389916836640509129/CCC92CECDFE627CDB3C648E5932A236C6EDEE890/][/screenshot]
-This is the first time I've encountered the same Kuria in 2 different rooms. Grineer Sealab seems to be a weird place with a lot of strange room/object/mission-relations (hard to put that into words). To give you an example: There seem to be alternatives of certain rooms with broken pipes etc... I still need to figure this out.
+There's an apparatus with the Kuria resting on top. Sometimes, a Mobile Defense console may be directly below.
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
