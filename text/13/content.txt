@@ -56,6 +56,6 @@ This particular one is really confusing, I didn't expect it to be found in the S
 [list]
 [*]Tileset: Grineer Sealab
 [*]Mission type: Any
-[*]Recommendation: Survival
+[*]Recommendation: Mobile Defense, Survival
 [/list]
 [/olist]
