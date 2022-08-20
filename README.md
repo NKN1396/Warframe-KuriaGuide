@@ -13,13 +13,14 @@ Help is greatly appreciated. If you have any improvements to share, consider ope
 In order to keep this guide free and accessible, I will only accept material under the following conditions:
 1. There must be no visible clan emblems / sigils.
 2. There must be no visible player names.
+3. No credit or attribution shall be in the guide.
 
 #### Image quality standards
 
 1. Resolution should be at least 1920 x 1080 at 100% scale.
-1. As little images as possible. If the Kuria is reasonably easy to find and access, there is no need to show the exact position (e.g. a close-up).
-2. Provide enough material to identify the room. Recognizing if you're in the correct room is the hard part.
-3. Kurias should be marked (g) in every image.
+2. Provide enough material to identify the room. Recognizing if you're in the correct room seems to be the hard part. The guide focuses on that.
+3. As little images as possible. If the Kuria is reasonably easy to find and access, there is no need to show the exact position (e.g. a close-up). Contrary, if a Kuria requires tricky maneuvering, every step should have its own image.
+4. Kurias should be marked (g) in every image.
 
 ## Status tracker
 
