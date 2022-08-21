@@ -26,6 +26,7 @@ One of the spawn rooms for the Grineer settlement tileset. This room is guarante
 [list]
 [*]Tileset: Grineer Settlement
 [*]Mission type: Any
+[*]Recommendation: Defense
 [/list]
 
 [*][h3]BECAME LEGEND TO THEM[/h3]
