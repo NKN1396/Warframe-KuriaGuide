@@ -36,7 +36,7 @@ The room has a large shipwreck in the middle and poisonous mushrooms (pulsing ga
 Pretty rare archwing room, we ran across that one randomly. There's a ship cruising around with a laser. The Kuria is hidden towards the open end (to the left if you're trying to swim out) and seated on the black rock between two ... ummm... coral thingies.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
-[*]Recommendation: The Second Dream (quest)
+[*]Mission type: Any (Submersible)
+[*]Recommendation: Exterminate (Submersible), The Second Dream quest
 [/list]
 [/olist]
