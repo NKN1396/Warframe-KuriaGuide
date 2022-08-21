@@ -10,8 +10,8 @@ Hack the console before jumping down into the water.
 The door is now open revealing the Kuria. Thanks to Kebabthief for working that out, I didn't realize the console was part of it and thought it was just a similar room.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
-[*]Recommendation: Mobile Defense
+[*]Mission type: Any (Submersible)
+[*]Recommendation: Mobile Defense (Submersible)
 [/list]
 
 [*][h3]AS SLAVE-LIKE AND SOILED[/h3]
