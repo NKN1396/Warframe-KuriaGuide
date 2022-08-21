@@ -31,7 +31,7 @@ You can recognize this room by the fountain in the middle. Kuria is pretty easy 
 Thank you once again to Terror for finding that Kuria. This room is easy to identify by the 4 small, yellow Grineer holograms. The Kuria is hidden inside one of the broken pipes. 
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
+[*]Mission type: Any (Submersible)
 [/list]
 
 [*][h3]REJECTED BY ALL[/h3]
