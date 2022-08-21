@@ -22,10 +22,11 @@ One of the two sabotage rooms (the other one contains the Manic Bombard).
 [*][h3]THEY HAD THE SAME POISE[/h3]
 [screenshot=534781933;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599244780/A5648FE4CABD201715F1708B6DD8F489154A72E6/][/screenshot]
 [screenshot=534781719;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/387665671599243324/0AFDB24C3A0306D17D9F9C4084544E2BF9FF6715/][/screenshot]
-The room has a large shipwreck in the middle and poisonous mushrooms (pulsing gas clouds) that can easily kill you, so stay away from them. It's hard to describe where the Kuria is in that room but luckily there aren't many pillars to search for. This one was pretty mean, as I've been scanning the entire room on multiple occasions and never found it. Kebabthief then found it in a couple minutes.
+The room has a large shipwreck in the middle and poisonous mushrooms (pulsing gas clouds) that can easily kill you, so stay away from them.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
+[*]Mission type: Any (Submersible)
+[*]Recommendation: Exterminate (Submersible)
 [/list]
 
 [*][h3]SAME SENSES, SAME STRENGTH[/h3]
