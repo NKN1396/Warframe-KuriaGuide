@@ -41,7 +41,7 @@ Thank you once again to Terror for finding that Kuria. This room is easy to iden
 Can be a bit tricky to get to. Jump on the platform first and then simply walk up the corals.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
-[*]Recommendation: Mobile Defense
+[*]Mission type: Any (Submersible)
+[*]Recommendation: Mobile Defense (Submersible)
 [/list]
 [/olist]
