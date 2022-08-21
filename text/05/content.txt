@@ -21,7 +21,7 @@ The door is now open revealing the Kuria. Thanks to Kebabthief for working that 
 You can recognize this room by the fountain in the middle. Kuria is pretty easy to find.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
+[*]Mission type: Any (Submersible)
 [/list]
 
 [*][h3]THEY TENDED THEIR STRAYS[/h3]
