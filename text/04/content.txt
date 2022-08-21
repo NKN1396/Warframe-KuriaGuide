@@ -8,7 +8,7 @@ The Kuria is below the metal inside the water.
 Jump into the water and swim between the column and wall. The Kuria is inside a metal frame almost at the bottom.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Capture
+[*]Mission type: Capture (Submersible)
 [/list]
 
 [*][h3]HAD COME INTO LIFE[/h3]
