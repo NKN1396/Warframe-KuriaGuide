@@ -15,7 +15,8 @@ On top of one of the pillars in the 'desert' tile.
 This room is a generic end-tile and can be found anywhere under water (credits to Claviculuswuluwus for the research).
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Any
+[*]Mission type: Any (Submersible)
+[*]Recommendation: Exterminate (Submersible)
 [/list]
 
 [*][h3]WHO RAVAGED THE HORDES[/h3]
