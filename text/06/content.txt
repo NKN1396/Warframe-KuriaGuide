@@ -3,10 +3,10 @@
 [screenshot=520056302;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600776893/C4FB3C08518D526875ED8529AACD5F9CAA5346F3/][/screenshot]
 [screenshot=520056221;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600776160/7C29391129691113129E240FED5379662EFF01E6/][/screenshot]
 [screenshot=520056107;sizeFull,floatLeft;images.akamai.steamusercontent.com/ugc/423692561600775314/F89C463283AB04A9DA6BAC5F390E51B2E1F6828F/][/screenshot]
-This is the Grineer sealab rescue room (thank you to Archangel Arbie2 for pointing that out). The Kuria is hidden on the left side, you only need to get on one of the cables. Also this room is where you get Clem.
+This is the Grineer sealab rescue room. The Kuria is hidden on the left side, you only need to get on one of the cables. Also this room is where you get Clem.
 [list]
 [*]Tileset: Grineer Sealab
-[*]Mission type: Rescue
+[*]Mission type: Rescue (Submersible)
 [/list]
 
 [*][h3]THEIR BOND GREW IN DEPTH[/h3]
